@@ -4,10 +4,10 @@ This game is sort of a Hello World for game programming with Love2D (a little bi
 
 ### Love2D
 
-LÖVE2D is a lovely (no pun intended) free game engine that drives you mad when searching for anything related to it (try googling 'what is love' or 'how to love')
+LÖVE2D is a lovely (no pun intended) free game engine that drives you mad when searching for anything related to it (try googling 'what is love' or 'how to love').
 It uses the Lua programming language, and works on Windows, Linux and Mac OS X
 
-You can get it [here](love2d.org)
+You can get it [here](love2d.org).
 
 
 ### Installation
