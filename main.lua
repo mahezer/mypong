@@ -84,7 +84,6 @@ function love.update(dt)
 
     if ballX >= love.graphics.getWidth()- 70 then
       if ballY >= player2Y and ballY <= player2Y + 80 then
-        print('PIZZA Voltando')
         lastTouchedX = 0
         incrementer = incrementer + 0.5
         playerIncrementer = playerIncrementer + 0.3
@@ -93,7 +92,6 @@ function love.update(dt)
 
     if ballX <= 80 then
       if ballY >= playerY and ballY <= playerY + 80 then
-        print('PIZZA Indo')
         lastTouchedX = 1
         incrementer = incrementer + 0.5
         playerIncrementer = playerIncrementer + 0.3
